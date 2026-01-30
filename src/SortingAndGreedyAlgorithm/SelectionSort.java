@@ -2,26 +2,27 @@ package SortingAndGreedyAlgorithm;
 
 public class SelectionSort {
     public static void main(String[] args) {
-        int a[] = {9,5,3,1,2};
-
+        // selection sort
+        // sorted and unsorted array break it
+        // starting sorted 0 and unsorted length of array
+        //[4,1,8,2,3,7] - 6 idx5
+        int a[] = {4,1,8,2,3,7};
         selectionSort(a);
-        for(int x : a){
-            System.out.println(" " + x);
+        for(int X : a){
+            System.out.println(X + " ");
         }
     }
-
-    static void selectionSort(int[] a){
+    static void selectionSort(int a[]){
         int n = a.length;
-
-        for(int i = 0 ; i < n - 1 ; i++){
-            int minIndex = i;
-            for(int j = i+1 ; j < n ; j++ ){
-                if(a[j] < a[minIndex]){
-                    minIndex = j;
+        for(int i = 0 ; i < n-1 ; i++){
+            int min = i;
+            for(int j = i+1 ; j < n ; j++){
+                if(a[j] < a[min]){
+                    min = j;
                 }
             }
-            int temp = a[minIndex];
-            a[minIndex] = a[i];
+            int temp = a[min];
+            a[min] = a[i];
             a[i] = temp;
         }
     }
