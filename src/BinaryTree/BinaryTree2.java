@@ -1,8 +1,12 @@
 package BinaryTree;
 
+import java.util.ArrayList;
+
 public class BinaryTree2 {
     public static void main(String[] args){
-
+        System.out.println(areCousins(root , 4 , 5));
+        ArrayList<Integer> arr = new ArrayList<>();
+        nodesAtLevelK(root , 2 , ans);
     }
 
     static Node xPar , yPar;
@@ -28,6 +32,16 @@ public class BinaryTree2 {
         boolean onSameLevel = xLevel == yLevel;
         boolean diffrentParents = xPar != yPar;
         return onSameLevel && diffrentParents; // if true then cousins
+    }
+
+    static void nodesAtLevelK(Node root , int level , ArrayList<Integer> ans){
+        if(root == null || level < 0) return ;
+        if(level == 0){
+            ans.add(root.data);
+            return;
+        }
+        nodesAtLevelK(root.left , level-1 , ans);
+        nodesAtLevelK(root.right , level-1 , ans);
     }
 
     class Node{
