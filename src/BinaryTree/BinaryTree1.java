@@ -20,6 +20,10 @@ public class BinaryTree1 {
         inOrder(root);
         System.out.println();
         preOrder(root);
+
+        System.out.println(minimumTree(root));
+        System.out.println(heightOfTree(root));
+
     }
     static void inOrder(Node root){
         if(root == null) return;
@@ -40,6 +44,20 @@ public class BinaryTree1 {
         postOrder(root.left);
         postOrder(root.right);
         System.out.println(root.data);
+    }
+
+    static int minimumTree(Node root){
+        if(root == null) return Integer.MAX_VALUE;
+        int minFromLeft = minimumTree(root.left);
+        int minFromRight = minimumTree(root.right);
+        return Math.min(Math.min(minFromLeft , minFromRight) , root.data);
+    }
+
+    static int heightOfTree(Node root){
+        if(root == null) return 0;
+        int heightOfLeftSubTree = heightOfTree(root.left); // root.left will be my new root
+        int heightOfRightSubTree = heightOfTree(root.right); // root.right will be my new root
+        return Math.max(heightOfLeftSubTree , heightOfRightSubTree) + 1;
     }
 }
 class Node{
