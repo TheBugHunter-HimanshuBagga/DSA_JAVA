@@ -71,8 +71,10 @@ public class BinaryTree2 {
 
         while(!stack.isEmpty()){
             Pair curr = stack.poll();
+            if(curr.node == null) continue;
             if(curr.level == 0){
                 ans.add(curr.node.data);
+                continue;
             }
             stack.push(new Pair(curr.node.right , curr.level-1));
             stack.push(new Pair(curr.node.left , curr.level-1));

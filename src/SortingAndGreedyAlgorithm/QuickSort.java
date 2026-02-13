@@ -19,13 +19,15 @@ public class QuickSort {
 
     static int partitioning(int a[] , int l , int h){
         int pivot = a[l];
-        int i = l;
+        int i = l + 1;
         int j = h;
 
         while(i <= j){
-            while(i < h && a[i] <= pivot) i++;
-            while(j >= 0 && a[j] > pivot) j--;
-            swap(a , i , j);
+            while(i < h && a[i] <= pivot) i++;// we get element bigger to pivot
+            while(j >= l && a[j] > pivot) j--;// we get element smaller to pivot
+            if(i < j) {
+                swap(a, i, j);
+            }
         }
         swap(a , l , j);
         return j;
