@@ -24,7 +24,34 @@ public class BinaryTree4 {
 
         ArrayList<Integer> ans = levelOrderTraversal(root);
         System.out.println(ans);
+        ArrayList<ArrayList<Integer>> answer = levelOrderTraversal2(root);
+        System.out.println(answer);
     }
+    static ArrayList<ArrayList<Integer>> levelOrderTraversal2(Node root){
+        ArrayList<ArrayList<Integer>> answer = new ArrayList<>();
+        Queue<Node> q = new LinkedList<>();
+        if(root == null) return answer;
+        q.add(root);
+        q.add(null);
+        ArrayList<Integer> currList = new ArrayList<>();
+        while(!q.isEmpty()){
+            Node curr = q.poll();
+            if(curr == null){
+                answer.add(currList);
+                if(q.isEmpty()){
+                    break;
+                }
+                currList = new ArrayList<>();
+                q.add(null);
+            }else{
+                currList.add(curr.data);
+                if(curr.left != null) q.add(curr.left);
+                if(curr.right != null) q.add(curr.right);
+            }
+        }
+        return answer;
+    }
+
     static ArrayList<Integer> levelOrderTraversal(Node root){
         ArrayList<Integer> answer = new ArrayList<>();
         Queue<Node> q = new LinkedList<>();
