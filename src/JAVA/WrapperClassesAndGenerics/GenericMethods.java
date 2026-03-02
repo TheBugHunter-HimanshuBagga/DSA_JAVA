@@ -21,7 +21,7 @@ public class GenericMethods {
 
     <E extends Number> void doubleData(E data) {
         System.out.println(data);
-
+        // this ia applied for numbers only
     }
 
 }
