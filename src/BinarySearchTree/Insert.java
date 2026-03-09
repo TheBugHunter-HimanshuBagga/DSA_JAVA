@@ -1,9 +1,9 @@
 package BinarySearchTree;
 
-import BinaryTree.Node;
+import java.security.Key;
 
-public class Search {
-    public static void main(){
+public class Insert {
+    public static void main(String[] args){
         Node n1 = new Node(8);
         Node n2 = new Node(3);
         Node n3 = new Node(10);
@@ -22,19 +22,20 @@ public class Search {
         n5.left = n7;
         n5.right = n8;
 
-        System.out.println(Search(root , 60));
+        System.out.println(Insert(root , 7));
     }
 
-    static boolean Search(Node root , int key){
-        if(root == null) return false;
-        if(root.data == key) return true;
+    static Node Insert(Node root , int key){ // Sorted in BST
+        if(root == null){
+            return new Node(key);
+        }
         if(root.data > key){
-             return Search(root.left , key);
+            root.left = Insert(root.left , key);
         }
         if(root.data < key){
-            return Search(root.right , key);
+            root.right = Insert(root.right , key);
         }
-        return true;
+        return root;
     }
 
     static class Node{
