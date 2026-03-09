@@ -1,6 +1,7 @@
 package JAVA.Collections;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 import java.util.Objects;
 
@@ -12,6 +13,7 @@ public class PracticingList {
 
         List<Integer> list = new ArrayList<>(); // list is not an object and dynamic in size
         List<Integer> list2 = new ArrayList<>();
+        List<Integer> list3 = new LinkedList<>(); // all operations will be same
 
         list.add(1); // add method came from collections interface
         list.add(20);
