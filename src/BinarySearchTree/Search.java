@@ -1,6 +1,5 @@
 package BinarySearchTree;
 
-import BinaryTree.Node;
 
 public class Search {
     public static void main(){
