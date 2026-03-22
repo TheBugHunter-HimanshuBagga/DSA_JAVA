@@ -54,6 +54,7 @@ public class AVL {
             return root;
         }
 
+        // Balancing the BST created to an AVL tree
         root.height = height(root);
         int hb = height(root.left) - height(root.right);
 
