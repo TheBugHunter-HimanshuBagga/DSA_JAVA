@@ -1,37 +1,63 @@
 package BinaryTree.PracticeCodingShuttle;
 
+import com.sun.source.tree.Tree;
+
 public class DistanceBetween2NodesinaBinaryTree {
     public static void main(String[] args){
-        LowestCommonAnsestor.Node n1 = new LowestCommonAnsestor.Node(3); LowestCommonAnsestor.Node n2 = new LowestCommonAnsestor.Node(5);
-        LowestCommonAnsestor.Node n3 = new LowestCommonAnsestor.Node(1); LowestCommonAnsestor.Node n4 = new LowestCommonAnsestor.Node(6);
-        LowestCommonAnsestor.Node n5 = new LowestCommonAnsestor.Node(2); LowestCommonAnsestor.Node n6 = new LowestCommonAnsestor.Node(0);
-        LowestCommonAnsestor.Node n7 = new LowestCommonAnsestor.Node(8); LowestCommonAnsestor.Node n8 = new LowestCommonAnsestor.Node(7);
-        LowestCommonAnsestor.Node n9 = new LowestCommonAnsestor.Node(4);
+        Node n1 = new Node(3); Node n2 = new Node(5);
+        Node n3 = new Node(1); Node n4 = new Node(6);
+        Node n5 = new Node(2); Node n6 = new Node(0);
+        Node n7 = new Node(8); Node n8 = new Node(7);
+        Node n9 = new Node(4);
 
-        LowestCommonAnsestor.Node root = n1; n1.left = n2;
+        Node root = n1; n1.left = n2;
         n1.right = n3;  n2.left = n4;
         n2.right = n5;  n3.left = n6;
         n3.right = n7;  n5.left = n8;
         n5.right = n9;
+
+
+        int ans = distanceBetweeen2Nodes(root , n2, n8);
+        System.out.println("Distance: " + ans);
     }
-    public static TreeNode LCAHelper3(TreeNode root , TreeNode p , TreeNode q){
+    public static int distanceBetweeen2Nodes(Node root , Node p , Node q){
+        Node lca = LCAHelper3(root , p , q);
+        int d1 = findDistanceHelper(lca , p);
+        int d2 = findDistanceHelper(lca , q);
+        return d1+d2;
+    }
+    public static Node LCAHelper3(Node root , Node p , Node q){
         if(root == null) return null;
         if(p == root || q == root) return root;
-        TreeNode left = LCAHelper3(root.left , p , q);
-        TreeNode right = LCAHelper3(root.right , p , q);
-        if(left != null && right != null){ // “Found one target in left and one in right”
-            return root;
-        }
+        Node left = LCAHelper3(root.left , p , q);
+        Node right = LCAHelper3(root.right , p , q);
+        if(left != null && right != null) return root;
         if(left == null){
             return right;
-        }
-        else if(right == null){
+        }else if(right == null){
             return left;
         }
         return null;
     }
 
-    public static int findDistanceHelper(TreeNode root , TreeNode target){
+    public static int findDistanceHelper(Node root , Node target){
+        if(root == null) return -1;
+        if(target == root) return 0;
+        int leftFound = findDistanceHelper(root.left , target);
+        int rightFound = findDistanceHelper(root.right, target);
+        if(leftFound != -1){
+            return leftFound + 1;
+        }else if(rightFound != -1){
+            return rightFound + 1;
+        }return -1;
+    }
+    static class Node {
+        int data;
+        Node left;
+        Node right;
 
+        public Node(int data) {
+            this.data = data;
+        }
     }
 }
