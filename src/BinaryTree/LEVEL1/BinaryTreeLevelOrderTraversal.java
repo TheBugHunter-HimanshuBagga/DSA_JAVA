@@ -1,10 +1,11 @@
 package BinaryTree.LEVEL1;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
-import java.util.Stack;
+import java.util.Queue;
 
-public class IterativeBinaryTreeInorderTraversal {
+public class BinaryTreeLevelOrderTraversal {
     public static void main(String[] args){
         Node root = new Node(1);
         root.left = new Node(2);
@@ -12,30 +13,26 @@ public class IterativeBinaryTreeInorderTraversal {
         root.left.left = new Node(4);
         root.left.right = new Node(5);
 
-        List<Integer> answer = inOrderHelper(root);
+        List<Integer> answer = LevelOrder(root);
         System.out.println(answer);
-
     }
-
-    static List<Integer> inOrderHelper(Node root){
-        List<Integer> answer  = new ArrayList<>();
+    static List<Integer> LevelOrder(Node root){
+        List<Integer> answer = new ArrayList<>();
         if(root == null) return answer;
-        Stack<Node> stack = new Stack<>();
-
-        while(root != null || !stack.isEmpty()){
-            while(root != null){
-                stack.push(root);
-                root = root.left;
-            }
-            Node popped = stack.pop();
+        Queue<Node> queue = new LinkedList<>();
+        queue.add(root);
+        while(!queue.isEmpty()){
+            Node popped = queue.poll();
             answer.add(popped.data);
-
-            root = popped.right;
-
+            if(popped.left != null){
+                queue.add(popped.left);
+            }
+            if(popped.right != null){
+                queue.add(popped.right);
+            }
         }
         return answer;
     }
-
     static class Node{
         int data;
         Node left;
