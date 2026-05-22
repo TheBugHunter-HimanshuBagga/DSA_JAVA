@@ -24,7 +24,6 @@ public class AverageofLevelsinBinaryTree {
         while(!q.isEmpty()){
             int size = q.size();
             long sum = 0;
-            List<Integer> list = new ArrayList<>();
             for(int i = 0 ; i < size ; i++){
                 Node polled = q.poll();
                 sum += polled.data;
