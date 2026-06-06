@@ -1,9 +1,6 @@
 package BinaryTree.LEVEL2;
 
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
+import java.util.*;
 
 public class FindBottomLeftTreeValue {
     public static void main(String[] args){
@@ -37,6 +34,26 @@ public class FindBottomLeftTreeValue {
             }
         }
         return ans;
+    }
+//    static int helperDFS(Node root){
+//        if(root == null) return 0;
+//        Stack<Node> st = new Stack<>();
+//        Node curr = root;
+//        while(curr != null){
+//            st.push(curr);
+//            curr = curr.left;
+//        }
+//        Node popped = st.pop();
+//        return popped.data;
+//    }
+    static int helperDFS(Node root , int depth){
+        if(root == null) return 0;
+        Stack<Node> st = new Stack<>();
+        Node curr = root;
+        int left = helperDFS(root.left , depth + 1);
+        int right = helperDFS(root.right , depth + 1);
+        int max = Math.max();
+
     }
     static class Node{
         int data;
