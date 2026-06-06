@@ -8,6 +8,6 @@ public class BinartTree3 {
     }
     static void rightView(Node root , int level , ArrayList<Integer> ans){
         if(root == null) return;
-        if(level >= ans.size())
+        if(level >= ans.size());
     }
 }
