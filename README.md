@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0567-permutation-in-string](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [1052-grumpy-bookstore-owner](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1052-grumpy-bookstore-owner) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
