@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0567-permutation-in-string](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0567-permutation-in-string) |
 | [1052-grumpy-bookstore-owner](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1052-grumpy-bookstore-owner) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0088-merge-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [1052-grumpy-bookstore-owner](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1052-grumpy-bookstore-owner) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sorting
 |  |
@@ -68,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
