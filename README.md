@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0567-permutation-in-string) |
+| [1208-get-equal-substrings-within-budget](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Sliding Window
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1052-grumpy-bookstore-owner) |
+| [1208-get-equal-substrings-within-budget](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sorting
 |  |
@@ -83,4 +86,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
+| [1208-get-equal-substrings-within-budget](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1208-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
