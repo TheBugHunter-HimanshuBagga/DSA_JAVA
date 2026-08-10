@@ -1,98 +1,52 @@
-// class Solution {
-//     public List<Integer> findAnagrams(String s, String p) {
-//         // since my output is in form of [0,6] hence
-//         List<Integer> result = new ArrayList<>();
-//         HashMap<Character,Integer> pMap = new HashMap<>(); // for p
-//         char[] arr2 = p.toCharArray();
-//         if(p.length() > s.length()){
-//             return result;
-//         } 
-//         // if not like this 
-//         for(char ch2: arr2){
-//             if(pMap.containsKey(ch2)){
-//                 pMap.put(ch2 , pMap.get(ch2) + 1);
-//             }else{
-//                 pMap.put(ch2,1);
-//             }
-//         }
-//         /*
-//         a->1
-//         b->1
-//         c->1
-//         */
-//         for(int i=0;i<=s.length()-p.length();i++){
-//             HashMap<Character,Integer> sMap = new HashMap<>();
-//             for(int j=i;j<i+p.length();j++){
-//                 char ch = s.charAt(j);
-//                 if(sMap.containsKey(ch)){
-//                     sMap.put(ch,sMap.get(ch)+1);
-//                 }else{
-//                     sMap.put(ch,1);
-//                 }
-//             }
-//             if(sMap.equals(pMap)){
-//                 result.add(i);
-//             }
-//         }
-//         return result;
-//     }
-// }
-
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
+        HashMap<Character, Integer> map1 = new HashMap<>(); // for p
 
-        // Sliding Window
-        List<Integer> result = new ArrayList<>();
+        int left =0;
+        int right=0;
 
-        HashMap<Character, Integer> sMap = new HashMap<>();
-        HashMap<Character, Integer> pMap = new HashMap<>();
-
-        if (p.length() > s.length()) {
-            return result;
+        while(right < p.length()){
+            char ch = p.charAt(right);
+            if(map1.containsKey(ch)){
+                map1.put(ch, map1.get(ch) + 1);
+            }else{
+                map1.put(ch, 1);
+            }
+            right++;
         }
 
-        // Frequency map of p
-        for (char ch1 : p.toCharArray()) {
-            if (pMap.containsKey(ch1)) {
-                pMap.put(ch1, pMap.get(ch1) + 1);
-            } else {
-                pMap.put(ch1, 1);
-            }
-        }
+        left = 0;
+        right = 0;
 
-        int left = 0;
-
-        for (int right = 0; right < s.length(); right++) {
-
-            // Acquire
-            char ch2 = s.charAt(right);
-
-            if (sMap.containsKey(ch2)) {
-                sMap.put(ch2, sMap.get(ch2) + 1);
-            } else {
-                sMap.put(ch2, 1);
+        ArrayList<Integer> result = new ArrayList<>();
+        HashMap<Character, Integer> map2 = new HashMap<>(); // for s
+        while(right < s.length()){
+            char ch = s.charAt(right);
+            if(map2.containsKey(ch)){
+                map2.put(ch , map2.get(ch) + 1);
+            }else{
+                map2.put(ch, 1);
             }
 
-            // Window size becomes equal to p.length()
-            if (right - left + 1 == p.length()) {
-
-                if (sMap.equals(pMap)) {
+            if(right - left + 1 == p.length()){ // window size and p length
+                if(map2.equals(map1)){
                     result.add(left);
                 }
 
-                // Remove left character
-                char leftChar = s.charAt(left);
+                // shrink
+                char removeLeft = s.charAt(left);
 
-                sMap.put(leftChar, sMap.get(leftChar) - 1);
+                map2.put(removeLeft, map2.get(removeLeft) - 1);
 
-                if (sMap.get(leftChar) == 0) {
-                    sMap.remove(leftChar);
+                if(map2.get(removeLeft) == 0){
+                    map2.remove(removeLeft);
                 }
 
                 left++;
             }
-        }
 
+            right++;
+        }
         return result;
     }
 }
