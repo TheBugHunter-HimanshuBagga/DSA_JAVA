@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0203-remove-linked-list-elements) |
+| [0707-design-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1208-get-equal-substrings-within-budget) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
