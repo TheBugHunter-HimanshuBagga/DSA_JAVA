@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0567-permutation-in-string](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0567-permutation-in-string) |
@@ -70,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0707-design-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -98,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0707-design-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
