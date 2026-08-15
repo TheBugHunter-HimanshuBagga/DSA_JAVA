@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0707-design-linked-list) |
 ## Recursion
 |  |
