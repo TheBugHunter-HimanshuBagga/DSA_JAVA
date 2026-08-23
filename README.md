@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0445-add-two-numbers-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0445-add-two-numbers-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
