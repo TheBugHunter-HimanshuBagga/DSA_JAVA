@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1052-grumpy-bookstore-owner](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1052-grumpy-bookstore-owner) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0445-add-two-numbers-ii) |
 | [0707-design-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0707-design-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -129,9 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0445-add-two-numbers-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1019-next-greater-node-in-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1019-next-greater-node-in-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1019-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
