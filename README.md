@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1208-get-equal-substrings-within-budget](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Sliding Window
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0844-backspace-string-compare) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1019-next-greater-node-in-linked-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bracket Sequences
