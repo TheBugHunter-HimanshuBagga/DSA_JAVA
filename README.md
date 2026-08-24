@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0485-max-consecutive-ones) |
 | [0904-fruit-into-baskets](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0904-fruit-into-baskets) |
+| [0946-validate-stack-sequences](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0946-validate-stack-sequences) |
 | [1004-max-consecutive-ones-iii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1052-grumpy-bookstore-owner](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1052-grumpy-bookstore-owner) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -154,5 +156,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0844-backspace-string-compare) |
+| [0946-validate-stack-sequences](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0946-validate-stack-sequences) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
