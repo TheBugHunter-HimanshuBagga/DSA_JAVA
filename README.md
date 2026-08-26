@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0485-max-consecutive-ones) |
 | [0735-asteroid-collision](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0735-asteroid-collision) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0009-palindrome-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0445-add-two-numbers-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0735-asteroid-collision) |
