@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0485-max-consecutive-ones) |
+| [0735-asteroid-collision](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0904-fruit-into-baskets) |
 | [0946-validate-stack-sequences](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0946-validate-stack-sequences) |
 | [1004-max-consecutive-ones-iii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0445-add-two-numbers-ii) |
+| [0735-asteroid-collision](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0946-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1019-next-greater-node-in-linked-list) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0946-validate-stack-sequences) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2181-merge-nodes-in-between-zeros) |
