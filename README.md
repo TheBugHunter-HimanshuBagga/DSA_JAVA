@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0904-fruit-into-baskets) |
 | [0946-validate-stack-sequences](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0946-validate-stack-sequences) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0946-validate-stack-sequences) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1019-next-greater-node-in-linked-list) |
 ## Simulation
 |  |
