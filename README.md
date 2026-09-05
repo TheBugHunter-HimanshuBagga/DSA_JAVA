@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0209-minimum-size-subarray-sum](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0217-contains-duplicate) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
