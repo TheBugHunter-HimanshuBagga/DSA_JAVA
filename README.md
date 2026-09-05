@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1052-grumpy-bookstore-owner](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1052-grumpy-bookstore-owner) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1470-shuffle-the-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1929-concatenation-of-array) |
