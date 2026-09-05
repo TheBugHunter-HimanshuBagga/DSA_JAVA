@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1052-grumpy-bookstore-owner) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1929-concatenation-of-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1929-concatenation-of-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -179,5 +180,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0946-validate-stack-sequences) |
+| [1929-concatenation-of-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
