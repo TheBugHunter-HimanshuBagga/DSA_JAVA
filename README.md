@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1052-grumpy-bookstore-owner](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1052-grumpy-bookstore-owner) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1480-running-sum-of-1d-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1929-concatenation-of-array) |
 | [2134-minimum-swaps-to-group-all-1s-together-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2134-minimum-swaps-to-group-all-1s-together-ii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1208-get-equal-substrings-within-budget](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1480-running-sum-of-1d-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
 | ------- |
