@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0844-backspace-string-compare) |
+| [1089-duplicate-zeros](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1089-duplicate-zeros) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1052-grumpy-bookstore-owner](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1052-grumpy-bookstore-owner) |
+| [1089-duplicate-zeros](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1089-duplicate-zeros) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
