@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0485-max-consecutive-ones) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0922-sort-array-by-parity-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0922-sort-array-by-parity-ii) |
 ## Linked List
