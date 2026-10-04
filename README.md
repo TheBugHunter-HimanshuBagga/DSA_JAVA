@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0567-permutation-in-string) |
+| [0645-set-mismatch](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0904-fruit-into-baskets) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0503-next-greater-element-ii) |
+| [0645-set-mismatch](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0645-set-mismatch) |
 | [0735-asteroid-collision](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0922-sort-array-by-parity-ii) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0645-set-mismatch](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0645-set-mismatch) |
 | [0922-sort-array-by-parity-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0922-sort-array-by-parity-ii) |
 ## Linked List
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0231-power-of-two) |
+| [0645-set-mismatch](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
