@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0260-single-number-iii) |
 | [0645-set-mismatch](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
