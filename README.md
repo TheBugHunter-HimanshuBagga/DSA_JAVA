@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0041-first-missing-positive) |
 | [0160-intersection-of-two-linked-lists](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0414-third-maximum-number) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -233,4 +236,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0946-validate-stack-sequences) |
 | [1929-concatenation-of-array](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/1929-concatenation-of-array) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/2181-merge-nodes-in-between-zeros) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/TheBugHunter-HimanshuBagga/DSA_JAVA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
